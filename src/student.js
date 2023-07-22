@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import './App.css';
 const Student =()=>{
-    const [data,setData]=useState([
+    const [data]=useState([
         {
             Name:"Vimal Kumar",
             Age:23,
